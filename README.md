@@ -130,20 +130,7 @@ Future analysis could include:
 ---
 
 ## Author
-Javier Soto Gonzalez
+Javier Soto Gonzalez | javisoto2001@gmail.com | https://github.com/javiersoto16
+Ignacio Sabatell Lopez  |  ignaciosabatel@gmail.com  |  https://github.com/ignaciosabatell
 
-javisoto2001@gmail.com   
 
-https://github.com/javiersoto16
-
-Ignacio Sabatell Lopez
-
-ignaciosabatel@gmail.com  
-
-https://github.com/ignaciosabatell
-
----
-
-Si quieres, puedo hacer **una versión aún más visual**, con badges de GitHub, un diagrama de flujo del experimento y secciones de “Insights” listas para mostrar en la página del repo.
-
-¿Quieres que haga eso también?
